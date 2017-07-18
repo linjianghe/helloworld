@@ -21,11 +21,11 @@
 
 # 自我描述
 
-1、熟悉html+div+css+jquery+ajax, linux+php+mysql/mariadb/oracle+Apache/nginx, thinkphp,ci等常用框架，熟悉git，svn版本控制，对memcached,redis等缓存有一定了解。
-2、能独立开发网站、系统管理后台
-3、熟悉接口开发（支付充值，APP接口），有多APP接入案例（E家小护士、零点壹、爱萌康）
-4、微信公众号开发
-5、处理过较多的业务，能更好得理解需求，能在短时间内快速融入到项目开发中
+		1、熟悉html+div+css+jquery+ajax, linux+php+mysql/mariadb/oracle+Apache/nginx, thinkphp,ci等常用框架，熟悉git，svn版本控制，对memcached,redis等缓存有一定了解。
+		2、能独立开发网站、系统管理后台
+		3、熟悉接口开发（支付充值，APP接口），有多APP接入案例（E家小护士、零点壹、爱萌康）
+		4、微信公众号开发
+		5、处理过较多的业务，能更好得理解需求，能在短时间内快速融入到项目开发中
 
 ---
 
