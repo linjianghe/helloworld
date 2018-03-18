@@ -21,12 +21,19 @@
 
 # 自我描述
 
-		1、熟悉html+div+css+jquery+ajax, linux+php+mysql/mariadb/oracle+Apache/nginx, thinkphp,ci等常用框架，
-		   熟悉git，svn版本控制，对memcached,redis等缓存有一定了解。
-		2、能独立开发网站、系统管理后台
-		3、熟悉接口开发（支付充值，APP接口），有多个APP接入案例（E家小护士、零点壹、爱萌康）
-		4、微信公众号开发
-		5、处理过较多的业务，能更好得理解需求，能在短时间内快速融入到项目开发中
+	
+		1、	熟悉html+div+css+jquery+ajax,bootstrap,easyui,vue2等前端框架；
+		2、	熟悉 centos+php+mysql/mariadb/oracle+Apache/nginx；
+		3、	熟悉 memcachedb,redis,mongodb等nosql；
+		4、	thinkphp,ci等php框架；
+		5、	熟悉git，svn版本控制软件；
+		6、	熟悉接口开发（支付充值接口，APP接口），有多个APP接口案例（E家小护士、爱萌康）
+		7、	熟悉微信公众号开发（家佑大健康公众号、爱萌康公众号）
+		8、	熟悉管理后台开发，有多个开发案例（E家小护士管理后台、爱萌康管理后台、宏畅食品管理后台等）
+		9、	Git简单代码库：https://github.com/linjianghe/test
+
+
+
 
 ---
 
