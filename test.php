@@ -1,6 +1,6 @@
 <?php
 $arr = [1,3,2,5,4,1,2];
-var_dump(select_sort($arr));
+var_dump(bubble_sort($arr));
 function bubble_sort($arr){
 	$count = count($arr);
 	if($count<=1){
@@ -8,7 +8,7 @@ function bubble_sort($arr){
 	}
 	for($i=1;$i<$count;$i++){
 		for($j=0;$j<$count-$i;$j++){ 
-			if($arr[$j]<$arr[$j+1]){ 
+			if($arr[$j]>$arr[$j+1]){ 
 				$tmp = $arr[$j+1];
 				$arr[$j+1] = $arr[$j];
 				$arr[$j] = $tmp;
